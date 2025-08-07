@@ -8,6 +8,10 @@ authors = ["Your Name <you@example.com>"]
 python = ">=3.10.0,<3.11"
 replit = "^3.2.4"
 Flask = "^2.2.0"
+gspread = "^6.2.1"
+oauth2client = "^4.1.3"
+pandas = "^2.3.1"
+db = "^0.1.1"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
